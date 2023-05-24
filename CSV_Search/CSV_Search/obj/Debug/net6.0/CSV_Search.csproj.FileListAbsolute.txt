@@ -1,0 +1,38 @@
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\nunit.engine.dll
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\nunit.engine.api.dll
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\nunit.engine.core.dll
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\CSV_Search.exe
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\CSV_Search.deps.json
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\CSV_Search.runtimeconfig.json
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\CSV_Search.dll
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\CSV_Search.pdb
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\bin\Debug\net6.0\nunit.framework.dll
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.csproj.AssemblyReference.cache
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.AssemblyInfoInputs.cache
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.AssemblyInfo.cs
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.csproj.CoreCompileInputs.cache
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.csproj.CopyComplete
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.dll
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\obj\Debug\net6.0\refint\CSV_Search.dll
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.pdb
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.genruntimeconfig.cache
+D:\Codes\C#\VS.NET\CSV_Search\CSV_Search\obj\Debug\net6.0\ref\CSV_Search.dll
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\bin\Debug\net6.0\CSV_Search.exe
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\bin\Debug\net6.0\CSV_Search.deps.json
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\bin\Debug\net6.0\CSV_Search.runtimeconfig.json
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\bin\Debug\net6.0\CSV_Search.dll
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\bin\Debug\net6.0\CSV_Search.pdb
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.csproj.AssemblyReference.cache
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.AssemblyInfoInputs.cache
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.AssemblyInfo.cs
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.csproj.CoreCompileInputs.cache
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.dll
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\obj\Debug\net6.0\refint\CSV_Search.dll
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.pdb
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\obj\Debug\net6.0\CSV_Search.genruntimeconfig.cache
+D:\Codes\coding interviews\CoolShop -CSV Searching C#\CSV_Search\CSV_Search\obj\Debug\net6.0\ref\CSV_Search.dll
