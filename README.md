@@ -11,6 +11,23 @@ The script receives as input the path to a CSV file to be imported, a column num
 `<ColumnNumber>`: The column number (0-based index) where the search will be performed.
 `<SearchKey>`: The value you want to search for.
 
+## Run Sample
+Scenario #1: Successful Operation
+
+CLI : `dotnet run ../../test.csv 2 Fabio`
+Result: `Search Results:
+        8,Gialli,Fabio,16/09/1989
+        10,Gialli,Fabio,19/07/1995``
+
+Scenario #2: Erronous Operation
+
+CLI : `dotnet run ../../test.csv 10 Fabio`
+Result: `Search Results:
+         Record not found`
+
+
+### the below is the program used to achieve this operation
+
 ```public static void Main(string[] args)
 {
     // Check if the required arguments are provided
