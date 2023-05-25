@@ -1,7 +1,7 @@
 # CSV_Search
 The script receives as input the path to a CSV file to be imported, a column number in which to search, and a search key.
 
-## This repo contains the folder containging the C# code using .Net v6 and another executable file written in python for the csv data generation for testing purposes.
+## This repo contains the folder containing the C# code using .Net v6 and another executable file written in python for the csv data generation for testing purposes.
 
 ### In order to execute the Program.cs:
 
