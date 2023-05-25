@@ -17,7 +17,7 @@ Scenario #1: Successful Operation
 CLI : `dotnet run ../../test.csv 2 Fabio`
 Result: `Search Results:
         8,Gialli,Fabio,16/09/1989
-        10,Gialli,Fabio,19/07/1995``
+        10,Gialli,Fabio,19/07/1995`
 
 Scenario #2: Erronous Operation
 
@@ -25,8 +25,11 @@ CLI : `dotnet run ../../test.csv 10 Fabio`
 Result: `Search Results:
          Record not found`
 
+Scenario #3: File not found
+CLI: ` dotnet run ./test.csv 2 Fabio`
+Result: `Error processing:Could not find file`
 
-### the below is the program used to achieve this operation
+#### The below is the program used to achieve this operation
 
 ```public static void Main(string[] args)
 {
