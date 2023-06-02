@@ -19,9 +19,16 @@ class Program
         int ColumnNumber = int.Parse(args[1]);
         string SearchKey = args[2];
 
+        string extension = Path.GetExtension(CsvfilePath).TrimStart('.') ;
+
+        //check if the file path contains csv extension
+        if (CsvfilePath == null || extension!="csv" ) {
+            Console.WriteLine("Please Choose a compatible file.");
+                return; }
+
         //try catch block for execution 
         try
-        {
+        { 
             // Read all lines from the CSV file
             var lines =File.ReadLines(CsvfilePath);
 
